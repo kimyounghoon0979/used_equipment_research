@@ -17,10 +17,6 @@ This folder contains all survey-related documents used in the master's thesis:
 - 개인정보는 모두 제거됨
 - SUS, UEQ, SEQ 점수 환산 포함
 
-### 3. **UEQ_results.xlsx / SEQ_results.xlsx / SUS_results.xlsx**
-- 각 지표별 세부 계산표
-- 평균, 표준편차, 척도 환산 과정 포함
-
 ## 🔒 Privacy Notice
 - 모든 응답 데이터는 비식별 처리되어 있으며  
   이름, 연락처 등 개인 정보는 포함되어 있지 않습니다.
