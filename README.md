@@ -5,16 +5,19 @@
 
 
 ## Structure
+used_equipment_research/
+│
 ├── README.md
+│
 ├── survey/
-│ ├── 1.survey_original_questions.pdf
-│ └── 2.survey_responses_aggregated.xlsx
+│   ├── 1.survey_original_questions.pdf
+│   └── 2.survey_responses_aggregated.xlsx
+│
 └── dataset/
-├── 1.trade_data_clean.xlsx
-├── 2.behavior_scenario.xlsx
-├── 3.system_performance.xlsx
-└── 4.used_equipment_market_listings.xlsx
-
+    ├── 1.trade_data_clean.xlsx
+    ├── 2.behavior_scenario.xlsx
+    ├── 3.system_performance.xlsx
+    └── 4.used_equipment_market_listings.xlsx
 ---
 
 ## 📁 1. Survey (설문 자료)
